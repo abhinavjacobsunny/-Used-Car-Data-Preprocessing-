@@ -76,7 +76,5 @@ This project was completed as part of the **IDRA Data Science & AI Training Prog
 
 ## Author
 
-**Abhinav Jacobsunny**
+**Abhinav Jacob Sunny**
 
-```
-```
